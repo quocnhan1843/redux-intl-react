@@ -60,7 +60,7 @@
   },
   "peerDependencies": {
     "prop-types": "^15.5.8",
-    "react": "^0.14.0 || ^15.0.0",
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.4",
     "react-redux": "^5.0.0"
   },
   "dependencies": {
